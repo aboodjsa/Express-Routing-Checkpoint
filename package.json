@@ -1,0 +1,22 @@
+{
+  "name": "advanced-back-end-development-express-routing-",
+  "version": "1.0.0",
+  "description": "Express routing checkpoint - working hours web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-masters:sj-dev001/Advanced-Back-End-Development-Express-Routing-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ejs": "^5.0.2",
+    "express": "^5.2.1"
+  }
+}
